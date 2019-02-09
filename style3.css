@@ -1,0 +1,12 @@
+body{
+    background-color:#F08080;
+}
+
+.hardBut{
+    background-color:#DC143C;
+    border-color:#DC143C;
+}
+
+.yourGuesses{
+    border-color:#DC143C;
+}

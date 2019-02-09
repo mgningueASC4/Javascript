@@ -1,0 +1,90 @@
+body{
+    font-family: 'Major Mono Display', monospace;   
+    background-color: #00BFFF;
+}
+
+.headers{
+    text-align: center;
+    margin-top: 40px;
+}
+.levels{
+    padding:40px;
+    text-align: center;
+}
+
+#easyButton{
+    background-color:#228B22;
+    border-color:#228B22;
+}
+
+#mediumButton{
+    background-color:#999900;
+    border-color:#999900;
+
+}
+
+#hardButton{
+    background-color:#DC143C;
+    border-color:#DC143C;
+}
+
+.TitleTop{
+    padding-top: 20px;
+    color: white;
+}
+
+.yourGuesses{
+    margin-left:30px;
+}
+
+.yourGuessesT{
+    margin-left:30px;
+}
+
+#hint{
+    background-color: #00BFFF;
+    border-width: 3px;
+    border-radius:2px;
+}
+
+.yourGuesses{
+    background-color: #00BFFF;
+    border-width: 3px;
+    border-radius:2px;
+}
+
+.wonResponse{
+    text-align: center;
+}
+
+.lostResponse{
+    text-align: center;
+}
+/*#title{
+    margin-top: 30px;
+}
+
+#input{
+    border-radius:5px;
+    font-size: 20px;
+}
+#guess{
+    color: white;
+    background-color: #f44336;
+    font-size: 30px;
+    border-radius: 14px;
+    margin-top: 20px;
+    padding: 5px;
+}*/
+
+/*Hints to use
+Easy:
+numGuess = 4 Too High/Low
+num Guess = 3 The Number is even or odd
+num Guess = 2 It's a factor of.
+num Guess = 1 How far you are away
+The number is greater than or less than 50
+
+
+
+*/
